@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @x1emy
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Balgymbekova Lyailya
+- 👀 I’m interested in IT
+- 🌱 I’m currently learning Java, Flutter
+- 💞️ I’m looking to collaborate on different python,c++ projects
+- 📫 How to reach me balgymbekova1@gmail.com
 
 <!---
 x1emy/x1emy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

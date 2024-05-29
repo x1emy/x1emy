@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=x1emy&label=Profile%20views&color=0e75b6&style=flat" alt="x1emy" /> </p>
 
-- 🔭 I’m currently working on **Flutter projects**
+- 🔭 I’m currently working on **Python projects**
 
 - 🌱 I’m currently learning **Flutter, Java**
 

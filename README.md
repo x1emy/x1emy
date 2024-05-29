@@ -1,8 +1,7 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Balgymbekova Lyailya</h1>
 <h3 align="center">A passionate full-stack developer from Kazakhstan</h3>
-<img align="right" alt="Coding" width="400" src="https://64.media.tumblr.com/c70e8fcdf61a132a873f99db163896a2/tumblr_o48ggtdpJA1sfmahro1_400.gif»>
-
+<iframe src="https://giphy.com/embed/3oKIPnAiaMCws8nOsE" width="457" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/cat-kitten-computer-3oKIPnAiaMCws8nOsE">via GIPHY</a></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=x1emy&label=Profile%20views&color=0e75b6&style=flat" alt="x1emy" /> </p>
 

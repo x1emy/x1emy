@@ -1,4 +1,4 @@
-[!MasterHead](https://i.pinimg.com/originals/87/f3/f1/87f3f1425b217691da645e97dbb50d55.gif)
+![MasterHead](https://i.pinimg.com/originals/87/f3/f1/87f3f1425b217691da645e97dbb50d55.gif)
 <h1 align="center">Hi 👋, I'm Balgymbekova Lyailya</h1>
 <h3 align="center">A passionate full-stack developer from Kazakhstan</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/f0/f0/d9/f0f0d932d6e39c7af5aa305cbd8da735.gif">

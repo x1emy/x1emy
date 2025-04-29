@@ -8,9 +8,9 @@
 
 - 🔭 I’m currently working on **Python projects**
 
-- 🌱 I’m currently learning **Flutter, Java**
+- 🌱 I’m currently learning **Java**
 
-- 👯 I’m looking to collaborate on **python, c++ projects**
+- 👯 I’m looking to collaborate on **python**
 
 - 📫 How to reach me **balgymbekova1@gmail.com**
 
